@@ -101,6 +101,7 @@ nav ul li{
     margin-bottom: 88px;
     border-radius: 16px;
     background: rgba(13, 19, 33, 0.02);
+    padding: 80px 97px;
 }
 
 .web-dev-content{
@@ -150,7 +151,6 @@ nav ul li{
     /* border: 2px solid red;  */
     margin-bottom: 32px;
     display: flex;
-    justify-content: space-evenly;
     align-items: center;
 }
 
@@ -179,6 +179,7 @@ nav ul li{
 .reason-text{
     width: 477px;
     height: 220px;
+    margin-left: 32px;
     /* border: 2px solid red; */
 }
 
@@ -194,4 +195,52 @@ nav ul li{
     font-family: Azeret Mono;
     font-size: 16px;
     font-weight: 400;
+}
+
+
+/* My inspiration styles */
+.my-inspiration-section{
+    width: 1140px;
+    height: 775px;
+    /* border: 2px solid red; */
+    margin: 0 auto;
+}
+
+.inspo-title-text{
+    width: 852px;
+    height: 113px;
+    /* border: 2px solid red; */
+    text-align: center;
+    margin: 0 auto;
+}
+
+.inspo-title-text > h2{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+}
+
+
+.inspo-title-text > p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400; 
+}
+
+.video-section{
+    width: 1140px;
+    height: 614px;
+    /* border: 2px solid red; */
+    margin-top: 48px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+
+}
+
+.video-section iframe{
+    margin: 32px 32px;
+    border-radius: 16px;
 }
