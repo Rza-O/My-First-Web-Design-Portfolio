@@ -143,6 +143,8 @@ nav ul li{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    border-radius: 16px;
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
 }
 
 .reason-two-container{
@@ -152,6 +154,8 @@ nav ul li{
     margin-bottom: 32px;
     display: flex;
     align-items: center;
+    border-radius: 16px;
+    background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
 }
 
 .reason-three-container{
@@ -161,6 +165,8 @@ nav ul li{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    border-radius: 16px;
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
 }
 
 .learn-more-btn{
