@@ -319,7 +319,7 @@ nav ul li{
     margin-bottom: 24px;
 }
 
-.languages-container a{
+.learn-more{
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
     font-size: 16px;
@@ -354,6 +354,115 @@ nav ul li{
     background: rgba(255, 223, 0, 0.05);
     padding: 20px 40px;
 }
+
+/* My next Goal Style */
+.next-goal-container{
+    width: 1140px;
+    height: 866px;
+    /* border: 2px solid red; */
+    margin: 111px auto 50px auto;
+}
+
+.next-goal-title-text{
+    width: 946px;
+    height: 113px;
+    /* border: 2px solid red; */
+    margin: 0 auto;
+    text-align: center;
+}
+
+.next-goal-title-text > h2{
+    margin-bottom: 25px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+}
+
+
+.next-goal-title-text > p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 48px;
+}
+
+.react-js-container{
+    width: 1140px;
+    height: 219px;
+    margin-top: 50px;
+    padding: 40px;
+    /* border: 2px solid red; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+}
+
+.react-js-texts{
+    width: 941.22px;
+    height: 139px;
+    margin-left: 24px;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.node-js-container{
+    width: 1140px;
+    height: 219px;
+    margin-top: 24px;
+    padding: 40px;
+    /* border: 2px solid red; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+}
+
+.node-js-texts{
+    width: 941.22px;
+    height: 139px;
+    margin-left: 24px;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.mongo-db-container{
+    width: 1140px;
+    height: 219px;
+    margin-top: 24px;
+    padding: 40px;
+    /* border: 2px solid red; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+}
+
+.mongo-db-texts{
+    width: 941.22px;
+    height: 139px;
+    margin-left: 24px;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
 
 
 /* I need support styles */
