@@ -46,7 +46,6 @@ nav ul li{
 .banner-container{
     max-width: 1440px;
     height: 652px;
-    /* border: 2px solid red; */
     margin: 0px auto;
     margin-top: 35px;
     background-image: url(./assets/Hero-bg.png);
@@ -56,7 +55,6 @@ nav ul li{
 .banner-content{
     width: 998px;
     height: 582px;
-    /* border: 2px solid red; */
     margin: 26px 44px 221px 221px;
     display: flex;
     flex-direction: column;
@@ -76,7 +74,6 @@ nav ul li{
     width: 852px;
     height: 52px;
     margin: 0 auto;
-    /* border: 2px solid red; */
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
     font-size: 16px;
@@ -100,7 +97,6 @@ nav ul li{
 .web-dev-container{
     width: 1140px;
     height: 1395px;
-    /* border: 2px solid red; */
     margin: 0 auto;
     margin-top: 74px;
     margin-bottom: 88px;
@@ -112,15 +108,12 @@ nav ul li{
 .web-dev-content{
     width: 946px;
     height: 1235px;
-    /* border: 2px solid red; */
     margin: 80px 97px;
-    /* padding: 48px 48px; */
 }
 
 .web-dev-title-text{
     width: 852px;
     height: 115px;
-    /* border: 2px solid red; */
     margin: 0 auto;
     text-align: center;
     margin-bottom: 48px;
@@ -143,7 +136,6 @@ nav ul li{
 .reason-one-container{
     width: 946px;
     height: 336px;
-    /* border: 2px solid red;  */
     margin-bottom: 32px;
     display: flex;
     justify-content: space-between;
@@ -155,7 +147,6 @@ nav ul li{
 .reason-two-container{
     width: 946px;
     height: 336px;
-    /* border: 2px solid red;  */
     margin-bottom: 32px;
     display: flex;
     align-items: center;
@@ -166,7 +157,6 @@ nav ul li{
 .reason-three-container{
     width: 946px;
     height: 336px;
-    /* border: 2px solid red;  */
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -191,7 +181,6 @@ nav ul li{
     width: 477px;
     height: 220px;
     margin-left: 32px;
-    /* border: 2px solid red; */
 }
 
 .reason-text > h3{
@@ -213,14 +202,12 @@ nav ul li{
 .my-inspiration-section{
     width: 1140px;
     height: 775px;
-    /* border: 2px solid red; */
     margin: 0 auto;
 }
 
 .inspo-title-text{
     width: 852px;
     height: 113px;
-    /* border: 2px solid red; */
     text-align: center;
     margin: 0 auto;
 }
@@ -244,7 +231,6 @@ nav ul li{
 .video-section{
     width: 1140px;
     height: 614px;
-    /* border: 2px solid red; */
     margin-top: 48px;
     box-sizing: border-box;
     border: 1px solid rgba(13, 19, 33, 0.2);
@@ -261,7 +247,6 @@ nav ul li{
 .my-current-goal-container{
     width: 1140px;
     height: 460px;
-    /* border: 2px solid red; */
     margin: 0 auto;
     margin-top: 151px;
 }
@@ -269,7 +254,6 @@ nav ul li{
 .my-current-goal-title{
     width: 852px;
     height: 113px;
-    /* border: 2px solid red; */
     margin: 0px 144px;
     text-align: center;
     margin-bottom: 48px;
@@ -294,12 +278,10 @@ nav ul li{
 .languages-container{
     width: 1140px;
     height: 299px;
-    /* border: 2px solid red; */
     margin-top: 48px;
     display: flex;
     justify-content: center;
     align-items: center;
-    /* padding: 40px 40px; */
 
 }
 
@@ -329,7 +311,6 @@ nav ul li{
 .html-container{
     width: 364px;
     height: 299px;
-    /* border: 2px solid red; */
     border-radius: 16px;
     background: rgba(255, 76, 30, 0.05);
     padding: 20px 40px;
@@ -339,7 +320,6 @@ nav ul li{
 .css-container{
     width: 364px;
     height: 299px;
-    /* border: 2px solid red; */
     border-radius: 16px;
     background: rgba(0, 76, 232, 0.05);
     padding: 20px 40px;
@@ -349,7 +329,6 @@ nav ul li{
 .js-container{
     width: 364px;
     height: 299px;
-    /* border: 2px solid red; */
     border-radius: 16px;
     background: rgba(255, 223, 0, 0.05);
     padding: 20px 40px;
@@ -359,14 +338,12 @@ nav ul li{
 .next-goal-container{
     width: 1140px;
     height: 866px;
-    /* border: 2px solid red; */
     margin: 111px auto 50px auto;
 }
 
 .next-goal-title-text{
     width: 946px;
     height: 113px;
-    /* border: 2px solid red; */
     margin: 0 auto;
     text-align: center;
 }
@@ -393,9 +370,7 @@ nav ul li{
     height: 219px;
     margin-top: 50px;
     padding: 40px;
-    /* border: 2px solid red; */
     display: flex;
-    /* justify-content: center; */
     align-items: center;
     box-sizing: border-box;
     border: 1px solid rgba(13, 19, 33, 0.15);
@@ -407,7 +382,6 @@ nav ul li{
     width: 941.22px;
     height: 139px;
     margin-left: 24px;
-    /* border: 2px solid red; */
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -418,9 +392,7 @@ nav ul li{
     height: 219px;
     margin-top: 24px;
     padding: 40px;
-    /* border: 2px solid red; */
     display: flex;
-    /* justify-content: center; */
     align-items: center;
     box-sizing: border-box;
     border: 1px solid rgba(13, 19, 33, 0.15);
@@ -432,7 +404,6 @@ nav ul li{
     width: 941.22px;
     height: 139px;
     margin-left: 24px;
-    /* border: 2px solid red; */
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -443,9 +414,7 @@ nav ul li{
     height: 219px;
     margin-top: 24px;
     padding: 40px;
-    /* border: 2px solid red; */
     display: flex;
-    /* justify-content: center; */
     align-items: center;
     box-sizing: border-box;
     border: 1px solid rgba(13, 19, 33, 0.15);
@@ -457,7 +426,6 @@ nav ul li{
     width: 941.22px;
     height: 139px;
     margin-left: 24px;
-    /* border: 2px solid red; */
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -469,7 +437,6 @@ nav ul li{
 #support-container{
     width: 1140px;
     height: 313px;
-    /* border: 2px solid red; */
     margin: 0 auto;
     margin-top: 70px;
     border-radius: 16px;
@@ -480,7 +447,6 @@ nav ul li{
 .support-content-text{
     width: 730px;
     height: 104px;
-    /* border: 2px solid red; */
     width: 90%;
     margin: 0 auto;
     text-align: center;
@@ -506,7 +472,6 @@ nav ul li{
     width: 684px;
     height: 57px;
     margin: 0 auto;
-    /* border: 2px solid red; */
     margin-top: 30px;
     display: flex;
     flex-direction: row;
@@ -539,7 +504,6 @@ nav ul li{
 footer{
     width: 1440px;
     height: 100px;
-    /* border: 2px solid red; */
     margin: 0 auto;
     margin-top: 80px;
     display: flex;
